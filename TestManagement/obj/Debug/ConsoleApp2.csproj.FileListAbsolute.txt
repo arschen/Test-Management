@@ -1,0 +1,9 @@
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.GenerateResource.cache
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Forms.GUI_TestCase.resources
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\TestManagement.exe.config
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\TestManagement.exe
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\TestManagement.pdb
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\TestManagement.exe
+C:\Users\pdaskalov\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\TestManagement.pdb
