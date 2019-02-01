@@ -36,7 +36,7 @@
             this.ExpectedResult = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.SaveButton = new System.Windows.Forms.Button();
-            this.AddStep = new System.Windows.Forms.Button();
+            this.AddStepButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -110,13 +110,13 @@
             // 
             // AddStep
             // 
-            this.AddStep.Location = new System.Drawing.Point(19, 132);
-            this.AddStep.Name = "AddStep";
-            this.AddStep.Size = new System.Drawing.Size(75, 23);
-            this.AddStep.TabIndex = 8;
-            this.AddStep.Text = "Add Step";
-            this.AddStep.UseVisualStyleBackColor = true;
-            this.AddStep.Click += new System.EventHandler(this.AddStep_Click);
+            this.AddStepButton.Location = new System.Drawing.Point(19, 132);
+            this.AddStepButton.Name = "AddStep";
+            this.AddStepButton.Size = new System.Drawing.Size(75, 23);
+            this.AddStepButton.TabIndex = 8;
+            this.AddStepButton.Text = "Add Step";
+            this.AddStepButton.UseVisualStyleBackColor = true;
+            this.AddStepButton.Click += new System.EventHandler(this.AddStep_Click);
             // 
             // GUI_TestCase
             // 
@@ -124,7 +124,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.AddStep);
+            this.Controls.Add(this.AddStepButton);
             this.Controls.Add(this.SaveButton);
             this.Controls.Add(this.ExpectedResult);
             this.Controls.Add(this.label4);
@@ -150,6 +150,6 @@
         private System.Windows.Forms.TextBox ExpectedResult;
         private System.Windows.Forms.Label label4;
         protected System.Windows.Forms.Button SaveButton;
-        private System.Windows.Forms.Button AddStep;
+        private System.Windows.Forms.Button AddStepButton;
     }
 }
