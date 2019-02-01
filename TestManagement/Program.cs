@@ -1,8 +1,8 @@
-﻿using ConsoleApp2.Forms;
+﻿using TestManagement.Forms;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace ConsoleApp2
+namespace TestManagement
 {
     class Program
     {

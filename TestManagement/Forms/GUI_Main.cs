@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ConsoleApp2
+namespace TestManagement
 {
     public partial class GUI_Main : Form
     {

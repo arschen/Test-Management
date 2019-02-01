@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2.Forms
+﻿namespace TestManagement.Forms
 {
     partial class GUI_TestCase
     {

@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using TestManagement;
 using TestManagement.Forms;
 
-namespace ConsoleApp2.Forms
+namespace TestManagement.Forms
 {
     public partial class GUI_TestCase : Form
     {

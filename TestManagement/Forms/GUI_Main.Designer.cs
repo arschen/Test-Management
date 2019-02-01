@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2
+﻿namespace TestManagement
 {
     partial class GUI_Main
     {
